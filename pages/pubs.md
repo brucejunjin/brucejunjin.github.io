@@ -24,7 +24,7 @@ description: Jun Jin's publications
 
 **Jun Jin**, Chao Ying, Zhou Yu (2020)
 Distributed estimation of principal support vector machines for sufficient dimension reduction.
-[arXiv](https://arxiv.org/)
+[arXiv](https://arxiv.org/abs/1911.12732)
 [![pdf](icons16/pdf-icon.png)](https://arxiv.org/pdf/1911.12732.pdf)
 
 
