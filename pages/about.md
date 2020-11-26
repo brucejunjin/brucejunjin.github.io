@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Jun Jin is a Ph.D. student in Statistics at University of Connecticut; research in high-dimensional method
 ---
 
 Karl Broman is Professor in the
