@@ -17,7 +17,7 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="https://arxiv.org/abs/1911.12732l">
+    <a href="https://arxiv.org/abs/1911.12732">
         <img src="assets/publpics/fig_dpsvm.PNG" alt="Distributed Principle Support Vector Machine for SDR" title="Distributed Principle Support Vector Machine for SDR"/>
     </a>
   </td>
