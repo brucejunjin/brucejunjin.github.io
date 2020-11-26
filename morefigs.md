@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Jun Jin
 ---
 
 <div class="navbar">
