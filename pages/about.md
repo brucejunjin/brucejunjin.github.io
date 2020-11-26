@@ -6,7 +6,7 @@ description: Jun Jin is a Ph.D. student in Statistics at University of Connectic
 
 Jun Jin is a Ph.D. student in Statistics at University of Connecticut; research in the statistical learning method for data holding large n and p; developer using [R](https://www.r-project.org) and [Python](https://www.python.org/).
 
-Jun Jin received a BS in [statistics](http://stat.ecnu.edu.cn/) in 2019, from the East China Normal University, advised by [Zhou Yu](https://faculty.ecnu.edu.cn/_s35/wz2/main.psp). He is now pursuing the Ph.D. in [statistics](https://stat.uconn.edu/) at the University of Connecticut from 2019 to present; his Ph.D. advisors are [Kun Chen](https://kun-chen.uconn.edu/) and [Jun Yan](https://stat.uconn.edu/jun-yan/).
+Jun Jin received a BS in [statistics](http://stat.ecnu.edu.cn/) in 2019, from the East China Normal University, advised by [Dr. Zhou Yu](https://faculty.ecnu.edu.cn/_s35/wz2/main.psp). He is now pursuing the Ph.D. in [statistics](https://stat.uconn.edu/) at the University of Connecticut from 2019 to present; his Ph.D. advisors are [Dr. Kun Chen](https://kun-chen.uconn.edu/) and [Dr. Jun Yan](https://stat.uconn.edu/jun-yan/).
 
 Jun Jin is a statistician focusing on all the theory, method and application. In theory aspect, minimax and concentration are in his top interests. In method aspect, he is now focusing on the sufficient dimension reduction and covariance distance. When it comes to the application, he is now the research assistant in the [Complex Fluids Lab](https://ma.engr.uconn.edu/) and [Uconn health](https://health.uconn.edu/).
 
