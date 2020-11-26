@@ -7,7 +7,7 @@ title: Jun Jin
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>s
+          <li><a href="https://github.com/kbroman">github</a></li>
       </ul>
   </div>
 </div>
