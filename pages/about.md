@@ -4,6 +4,8 @@ title: about
 description: Jun Jin is a Ph.D. student in Statistics at University of Connecticut; research in high-dimensional method
 ---
 
+Jun Jin is a Ph.D. student in Statistics at University of Connecticut; play with the data in ${R^{n \times p}}$ when $n$ or $p$ is big.
+
 Karl Broman is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
