@@ -31,7 +31,8 @@ he/him
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: jun.jin@uconn.edu \t
+            Email: jun.jin@uconn.edu 
+            <br/>
             Phone: 959-929-7358
             </div>
         </div>
