@@ -8,4 +8,4 @@ description: Karl Broman's tutorials
 
 ---
 
-- [Intro to Tensorflow with Python](https://github.com/brucejunjin/Intro-to-tensorflow)
+- [Workshop in UCONN SPORTS ANALYTICS SYMPOSIUM (UCSAS) 2021: TensorFlow with Applications in Sports Analytics](https://github.com/brucejunjin/Intro-to-tensorflow)
