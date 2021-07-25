@@ -23,6 +23,7 @@ description: Jun Jin's publications
 
 Shing-Yun Chang, **Jun Jin**, Jun Yan, Xin Dong, Bodhisattwa Chaudhuri, Karthik Nagapudi, Anson W.K. Ma (2021)
 Development of a pilot-scale HuskyJet binder jet 3D printer for additive manufacturing of pharmaceutical tablets.
+International Journal of Pharmaceutics.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34116179/)
 
 #### submitted
