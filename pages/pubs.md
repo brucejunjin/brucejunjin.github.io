@@ -9,6 +9,7 @@ description: Jun Jin's publications
         <ul class="nav">
             <li><a href="#book">book</a></li>
             <li><a href="#articles">articles</a></li>
+            <li><a href="#conference">conference</a></li>
             <li><a href="#thesis">dissertation</a></li>
         </ul>
     </div>
@@ -32,7 +33,7 @@ Distributed estimation of principal support vector machines for sufficient dimen
 [![pdf](icons16/pdf-icon.png)](https://arxiv.org/pdf/1911.12732.pdf)
 
 
-### <a name="articles"></a>conference articles
+### <a name="conference"></a>conference articles
 
 Ruofan Chen, **Jun Jin** (2021)
 Detection of influential features of hard landing based on QAR data.
